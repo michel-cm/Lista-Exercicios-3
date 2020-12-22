@@ -1,0 +1,20 @@
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.exe.config
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.pdb
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csprojAssemblyReference.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.Form1.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.Properties.Resources.resources
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csproj.GenerateResource.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.exe
+C:\Users\mefma\OneDrive\Documentos\Visual Studio 2019\Projects\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.pdb
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.exe.config
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.exe
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\bin\Debug\VetorCSharp.pdb
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csprojAssemblyReference.cache
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.Form1.resources
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.Properties.Resources.resources
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csproj.GenerateResource.cache
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.csproj.CoreCompileInputs.cache
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.exe
+D:\mef\IF\Linguagem\Semana 3\VetorCSharp\VetorCSharp\obj\Debug\VetorCSharp.pdb
